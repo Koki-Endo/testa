@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #333333;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+}
+
+main {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #336633;
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    padding: 5px 10px;
+}
+
+a {
+    color: #3333ff;
+}
+
+.centerBlock {
+    width: 300px;
+    margin: auto;
+}
+
+.backCFC {
+    background-color: #ccffcc;
+}
+
+.backFEE {
+    background-color: #ffeeee
+}
