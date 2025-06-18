@@ -15,7 +15,7 @@
     String himando = (String) request.getAttribute("HIMANDO");
     %>
     <header>
-        <h1>肥満度の計算</h1>
+        <h1>肥満度の計算１</h1>
     </header>
     <main>
         <div class="centerBlock">
